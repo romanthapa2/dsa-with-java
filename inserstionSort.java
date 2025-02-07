@@ -1,4 +1,9 @@
-
+// let array = {5, 2, 9, 1, 8};
+// we start from here
+// let sorted = [5] and unsorted = [2,9,1,8]
+// inserstion sort works by comparing sorted and unsorted values first of all 5 and  2 if value first value is greater then 
+// we shift right and get the 2 in the current position. likewise after 2nd iteration 
+// sorted will be = [2,5] and unsorted will be [9,1,8] 
 import java.util.Arrays;
 
 public class inserstionSort {

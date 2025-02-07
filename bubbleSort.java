@@ -1,4 +1,6 @@
-
+// Bubble sort works by comparing two next values,if second number is smaller then swap with first number otherwise
+// dont swap. after 1st inner iteration the last value will be highest and the second largest value will be in second last
+// position after 2nd iteration and so on.
 
 import java.util.Arrays;
 
